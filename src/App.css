@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f1f1f1;
+  
 }
 
 .welcome-message {
@@ -35,7 +35,6 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f1f1f1;
 }
 
 .connected-header {
