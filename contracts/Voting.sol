@@ -62,3 +62,4 @@ constructor(string[] memory _candidateNames, uint256 _durationInMinutes) {
         return votingEnd - block.timestamp;
     }
 }
+//This is the voting solidity file smart contract 
